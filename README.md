@@ -2,10 +2,10 @@
 <h3 align="center">A passionate MERN Stack Developer and DSA Enthusiast from India 🇮🇳</h3>
 
 - 🔭 I’m currently working on **MediConnect** – an Online Medical Consultation platform  
-- 🌱 I’m currently learning and building with **Node.js, Express, React, REST APIs**  
+- 🌱 I’m currently learning and building with **Spring Boot , Spring MVC , React, REST APIs**  
 - 👨‍💻 I enjoy problem-solving and exploring **Data Structures & Algorithms**  
 - 🎓 I'm pursuing **B.Tech in CSE at VIT-AP University**  
-- 💬 Ask me about **Java, Python, MERN, DSA, OOPs, CN, OS**  
+- 💬 Ask me about **Java, Python, Spring Boot , spring, DSA, OOPs, CN, OS**  
 - 📫 Reach me at **nischayraval9@gmail.com**
 
 ---
