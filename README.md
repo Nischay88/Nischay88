@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nischay Raj Raval</h1>
-<h3 align="center">A passionate MERN Stack Developer and DSA Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate JAVA Full Stack Developer and DSA Enthusiast from India 🇮🇳</h3>
 
 - 🔭 I’m currently working on **MediConnect** – an Online Medical Consultation platform  
 - 🌱 I’m currently learning and building with **Spring Boot , Spring MVC , React, REST APIs**  
